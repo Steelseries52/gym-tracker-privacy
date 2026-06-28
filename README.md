@@ -1,1 +1,1 @@
-# grym-tracker-privacy
+# gym-tracker-privacy
